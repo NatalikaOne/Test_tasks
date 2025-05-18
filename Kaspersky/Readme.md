@@ -10,3 +10,7 @@
 с результатами оценки полноты (сравнения эталона текста и текста, извлеченного библиотекой);
 оценка значимости текста, который выделить не удалось;
 комментарии, если есть предложения по улучшению.
+
+Решение задачи: [Здесь](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/Kaspersky_task.ipynb)
+
+Итоговый файл: [Здесь](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/analyzed_results.xlsx)
