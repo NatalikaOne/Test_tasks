@@ -11,6 +11,6 @@
 оценка значимости текста, который выделить не удалось;
 комментарии, если есть предложения по улучшению.
 
-Решение задачи: [Здесь](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/Kaspersky_task.ipynb)
+Решение задачи: [Kaspersky_task.ipynb](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/Kaspersky_task.ipynb)
 
-Итоговый файл: [Здесь](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/analyzed_results.xlsx)
+Итоговый файл: [analyzed_results.xlsx](https://github.com/NatalikaOne/Test_tasks/blob/main/Kaspersky/analyzed_results.xlsx)
